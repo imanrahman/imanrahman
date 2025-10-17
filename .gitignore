@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+.env
+.env.*
+dist
+.vite
+coverage
+.idea
+.vscode
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.local
+supabase/.temp
